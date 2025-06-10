@@ -42,9 +42,9 @@ I'm a Data Engineer working in Derevo, <br>
   <a href="https://www.linkedin.com/in/ragknos-demi%C3%A1n-fern%C3%A1ndez-agraz-rodr%C3%ADguez-9ab523317/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 <h3>  &nbsp;🛠️ Languages and Tools:</h3>
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 - ⚙️ &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
