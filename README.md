@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=11AAFF&random=false&width=435&lines=Backend+Developer+Junior;Coffee+Lover;Curious+for+the+unknown;Orgullosamente+Mexicano+%F0%9F%8F%B4%F3%A0%81%AD%F3%A0%81%B8%F3%A0%81%AD%F3%A0%81%A5%F3%A0%81%B8%F3%A0%81%BF;Deep+Learning" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=11AAFF&random=false&width=435&lines=Backend+Developer+Junior;Coffee+Lover;Curious+for+the+unknown;Deep+Learning" alt="Typing SVG" /></a>
 </p>
 <br>
 
@@ -40,17 +40,13 @@ I'm a Data Engineer working in Derevo, <br>
     </ul>
   <p align="left">
   <a href="https://www.linkedin.com/in/ragknos-demi%C3%A1n-fern%C3%A1ndez-agraz-rodr%C3%ADguez-9ab523317/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<h3>  &nbsp;🛠️ Languages and Tools:</h3>
-- 💻 &nbsp;
+<h3>  &nbsp;🛠️ Languages:</h3>
 
 - ⚙️ &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-<br>
 
 <p align="center">
 	
