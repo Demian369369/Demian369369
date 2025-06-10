@@ -41,6 +41,15 @@ I'm a Data Engineer working in Derevo, <br>
   <p align="left">
   <a href="https://www.linkedin.com/in/ragknos-demi%C3%A1n-fern%C3%A1ndez-agraz-rodr%C3%ADguez-9ab523317/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 <h3>  &nbsp;🛠️ Languages and Tools:</h3>
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 <br>
 
 <p align="center">
@@ -52,16 +61,6 @@ I'm a Data Engineer working in Derevo, <br>
   		</a>
 	</p>
  <br>
-
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
    <br>
  
@@ -83,9 +82,10 @@ I'm a Data Engineer working in Derevo, <br>
 <br>
 <div style='align-items: center'>
 	
-![Triyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TRIYAN-SALAZAR&count_private=true&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TRIYAN-SALAZAR&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight)](https://github.com/TRIYAN-SALAZAR/github-readme-stats)
+![Demian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Demian369369&count_private=true&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Demian369369&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight)](https://github.com/Demian369369/github-readme-stats)
 </div>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br/>
+
