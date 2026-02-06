@@ -1,15 +1,13 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=11AAFF&random=false&width=435&lines=Backend+Developer+Junior;Coffee+Lover;Curious+for+the+unknown;Deep+Learning" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=11AAFF&random=false&width=435&lines=Backend+Developer;Data+Enginner;Content+Creator;Entrepreneur" alt="Typing SVG" />
+</a>
 </p>
 <br>
-
 <h2> Hello I'm Ragknos Demian <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
-
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
-
-
 I'm a Data Engineer working in Derevo, <br>
-- 🌱 &nbsp;learning about Databases SQL - NoSQL like: 
+- 🌱 &nbsp;knowledge in Databases SQL - NoSQL like: 
  <br>-SQL, 
  <br>-MariaDB, 
  <br>-PostgreSQL, 
@@ -17,8 +15,9 @@ I'm a Data Engineer working in Derevo, <br>
  <br>-MongoDB, 
  <br>-CosmosDB...
 
-- 🌱 &nbsp;Also learning about Cloud Databases:
- <br>-Microsoft Azure portals & Fabric, 
+- 🌱 &nbsp;Also learning about:
+ <br>-Microsoft Azure portals & Fabric,
+ <br>-DevOps, 
  <br>-Datawarehouse, 
  <br>-Synapse, 
  <br>-Databricks, 
@@ -32,7 +31,30 @@ I'm a Data Engineer working in Derevo, <br>
  <br>-git & github
  <br>-Terminal
  <br>-Python
-- 🎓 &nbsp; I’m currently a student at Universidad De Guadalajara University's ICOM section.
+- 🎓 &nbsp; I’m currently a student at Universidad De Guadalajara University's ICOM section at mid-career.
+- 🌱 &nbsp;Completed subjects:
+ <br>-Programming Fundamentals,
+ <br>-Structured Programming,
+ <br>-Object-Oriented Programming,
+ <br>-Mathematical Logic,
+ <br>-Discrete Mathematics,
+ <br>-Linear Algebra,
+ <br>-Precalculus,
+ <br>-Differential and Integral Calculus,
+ <br>-Fundamentals of Physics,
+ <br>-Mechanics,
+ <br>-Electronic and Electromagnetic Circuits,
+ <br>-Introduction to Engineering,
+ <br>-Technology Project Management,
+ <br>-Digital Systems,
+ <br>-Ethics and Legislation,
+ <br>-Oral and Written Communication,
+ <br>-Administration,
+ <br>-Integration Seminar and Protocol,
+ <br>-Innovation and Technology,
+ <br>-Software Engineering,
+ <br>-Innovation and Technology,
+ <br>-Ethics and Legislation.
   <div id="user-content-toc">
     <ul align="left">
       <summary><h2 style="display: inline-block">How to reach me🤝</h2></summary>
@@ -56,27 +78,12 @@ I'm a Data Engineer working in Derevo, <br>
   		</a>
 	</p>
  <br>
-
    <br>
- 
 - **Softwares and tools 🛠**:
-
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
     ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-    ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-  <br>
-  
-  **(new in these tecnologies):**
-  <br>
-    ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-    ![supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
-    
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<div style='align-items: center'>
-	
+    ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)   
 ![Demian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Demian369369&count_private=true&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Demian369369&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight)](https://github.com/Demian369369/github-readme-stats)
 </div>
